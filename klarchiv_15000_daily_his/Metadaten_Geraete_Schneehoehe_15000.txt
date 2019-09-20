@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+15000;Aachen-Orsbach;6.02;50.8;230.99;;20110401;20181231;Schneepegel;Schneehöhenmessung, manuell;eor;
+15000;Aachen-Orsbach;6.02;50.8;230.99;2.3;20140625;20190312;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

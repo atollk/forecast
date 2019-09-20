@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+15000;Aachen-Orsbach;6.02;50.8;230.99;232.54;20110401;20120806;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+15000;Aachen-Orsbach;6.02;50.8;230.99;232.54;20120807;20190312;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

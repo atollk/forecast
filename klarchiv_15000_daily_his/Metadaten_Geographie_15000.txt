@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+ 15000;  230.99; 50.7983;  6.0244;20101020;        ;Aachen-Orsbach

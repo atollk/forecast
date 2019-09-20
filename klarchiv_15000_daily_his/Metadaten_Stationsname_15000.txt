@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 15000;Aachen-Orsbach                          ;20101020;
